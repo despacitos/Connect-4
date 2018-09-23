@@ -9,4 +9,4 @@ Click the button at the bottom to reset the grid.
 
 # The grid does not change with the window borders. Keeping the program at native resolution is ideal.
 
-#The Kivy Python library IS REQUIRED.
+# The Kivy Python library IS REQUIRED.
